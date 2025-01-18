@@ -18,5 +18,16 @@ print(my_list)
 my_list.pop()
 print(my_list.pop(2))
 
+my_new_list = my_list.copy()
+
+
 my_list.clear()
 print(my_list)
+
+print(my_new_list)
+
+my_new_list.reverse()
+print(my_new_list)
+
+my_new_list.sort()
+print(my_new_list)
