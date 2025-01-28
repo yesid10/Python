@@ -17,4 +17,5 @@ my_other_tuple = (35, 1.77, "Yesid", "Vanegas");
 
 my_sum_tuple = my_tuple + my_other_tuple;
 
-print(my_sum_tuple[0:2])
+print(my_sum_tuple[0:2]);
+
